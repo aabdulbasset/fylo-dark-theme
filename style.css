@@ -16,6 +16,9 @@
     .intro-folder{
         width:70%;
     }
+    .intro-container{
+        background-image: url('images/bg-curvy-mobile.svg');
+    }
 }
 @media only screen and (max-width:1200px){
     .intro-container{
@@ -142,7 +145,7 @@
 .works-container{
     display: flex;
     background-color:hsl(218, 28%, 13%);
-    padding:0 17em;
+    padding:0 15vh;
 }
 .works-text{
     align-self: center;
